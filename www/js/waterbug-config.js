@@ -6,17 +6,17 @@ var elementPadding = 40; // padding around the logo and credit text
 // the name of the logo object should match the value of the corresponding radio button in the HTML.
 var logos = {
     'lunchbox': {
-        whitePath: '../img/icon-lunchbox-white.svg', // path to white logo
-        blackPath: '../img/icon-lunchbox-black.svg', // path to black logo
-        w: 100, // width of logo
-        h: 80, // height of logo
-        display: 'Lunchbox'
+        whitePath: '../img/poynter_white.png', // path to white logo
+        blackPath: '../img/poynter_black.png', // path to black logo
+        w: 181.5, // width of logo
+        h: 50, // height of logo
+        display: 'lunchbox'
     },
     'socializr': {
-        whitePath: '../img/icon-socializr-white.svg',
-        blackPath: '../img/icon-socializr-black.svg',
-        w: 150,
-        h: 51,
+        whitePath: '../img/poynter_white.png', // path to white logo
+        blackPath: '../img/poynter_black.png', // path to black logo
+        w: 181.5,
+        h: 50,
         display: 'Socializr'
     }
 };

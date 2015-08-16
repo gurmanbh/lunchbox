@@ -1,6 +1,9 @@
 *.py[co]
 *.sw[op]
 
+#electron
+electron/
+
 # Packages
 *.egg
 *.egg-info
